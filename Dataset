@@ -1,0 +1,12 @@
+# Dataset Information
+
+The dataset used for this project is too large to upload to GitHub.  
+You can access it here: [Download Dataset from Google Drive](https://drive.google.com/drive/folders/1JbzNdGl1fhaEAPtBCGyPBJ1wu5_zhUuL?usp=drive_link)  
+
+Structure:
+- train/
+  - Closed_Eyes/
+  - Open_Eyes/
+- test/
+  - Closed_Eyes/
+  - Open_Eyes/
